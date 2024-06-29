@@ -2,4 +2,4 @@
 
 This repository is where I share my tests of new technologies and ideas for professional improvement.
 
-![Silver Wolf Honkai Star Rail](https://github.com/Samel-OP-Study/.github/blob/6ee467e2f1ea81ef985b8bb0a4f99db82065f32a/welcome.gif)
+![Silver Wolf Honkai Star Rail](https://github.com/Samel-OP-Study/.github/blob/cc958180f7ab31a27f42adf8d4e13a83f1de0aaf/profile/welcome.gif)
